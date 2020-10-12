@@ -7,6 +7,8 @@ import Profile from "./components/Profile";
 
 
 
+
+
 function App() {
     return (
         <div className="app-wrapper">
