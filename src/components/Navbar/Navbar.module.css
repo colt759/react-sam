@@ -4,5 +4,9 @@
   background-color: greenyellow;
 }
 .item {
-  color: black;
+  color: darkslategray;
+  text-decoration: none;
+}
+.item.active {
+  color: blue;
 }
